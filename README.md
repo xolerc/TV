@@ -12,3 +12,6 @@ An Uzbek syllable/vocabulary learning app with timer and letter-browsing modes. 
 
 ## How to open
 Open `index.html` in any modern browser.
+
+## 🔗 Rasmiy portfolio
+Barcha XOLERIC loyihalari: **https://xolerc.github.io/mydrime/**
